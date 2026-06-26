@@ -1,3 +1,7 @@
+# LINK GOOGLE COLAB
+
+https://colab.research.google.com/drive/1CaJzqQNhvV2bDtsbfSQZfoEimJK-VdXu#scrollTo=b33b0b5a
+
 # Clasificación Automática de Modulaciones Digitales con Machine Learning
 
 Este proyecto desarrolla un sistema de clasificación automática de modulaciones digitales a partir de señales IQ utilizando técnicas de Machine Learning. El objetivo principal es identificar el tipo de modulación de una señal recibida a partir de sus componentes en fase (`I`) y cuadratura (`Q`), considerando diferentes niveles de ruido representados mediante el SNR.
